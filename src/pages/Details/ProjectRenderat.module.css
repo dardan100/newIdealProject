@@ -1,0 +1,10 @@
+.containerStyles {
+  width: 100%;
+  height: 1000px;
+  position: relative;
+}
+
+.app {
+  position: absolute;
+  width: 100%;
+}
